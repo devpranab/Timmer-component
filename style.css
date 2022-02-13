@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+p{
+ font-weight: 400;
+}
+.item{
+    color: white;
+    background-color: black;
+    margin: 20px;
+    padding: 10px;
+    width: 100px;
+    border: 1px solid black;
+    font-size: 20px;
+}
+.count-down{
+    justify-content: center;
+    display: flex;
+}
